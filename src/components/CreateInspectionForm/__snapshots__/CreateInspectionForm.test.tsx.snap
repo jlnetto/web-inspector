@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreateInspectionForm should render form correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-ispOId gJMkEM"
+  >
+    <h2
+      class="sc-kcuKUB ckVtbx"
+    >
+      Cadastro de uma solicitação de inspeção
+    </h2>
+    <form
+      class="sc-dcrmVg cZdKfx"
+    >
+      <div
+        class="sc-fFGjHI boHwgv"
+      >
+        <label
+          for="register"
+        >
+          Solicitação de inspeção
+        </label>
+        <input
+          class="sc-ewnqHT hGfAjc"
+          placeholder="Palavra-chave"
+          value=""
+        />
+      </div>
+      <button
+        class="sc-bgqQcB kYYpOZ"
+        disabled=""
+        type="submit"
+      >
+        Enviar
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;

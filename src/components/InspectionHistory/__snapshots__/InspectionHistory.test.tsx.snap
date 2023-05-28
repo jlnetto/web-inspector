@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InspectionHistory renders accordion items when there are records 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bgqQcB gNCgfU"
+  >
+    <h2
+      class="sc-gTRrQi dvtghf"
+    >
+      Histórico de solicitações cadastradas
+    </h2>
+    <div
+      class="sc-ewnqHT"
+    >
+      <div
+        class="sc-fFGjHI fQDidE"
+      >
+        <div
+          class="sc-dicizt gDDddz"
+        >
+          Keyword 1
+          <div
+            class="sc-iVCKna eeWChi"
+          />
+        </div>
+        <div
+          class="sc-gxYJeL iWjepY"
+        >
+          <div
+            class="sc-crozmw bteBZu"
+            data-testid="loading"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fFGjHI fQDidE"
+      >
+        <div
+          class="sc-dicizt gDDddz"
+        >
+          Keyword 2
+          <div
+            class="sc-iVCKna eeWChi"
+          />
+        </div>
+        <div
+          class="sc-gxYJeL iWjepY"
+        >
+          <div
+            class="sc-crozmw bteBZu"
+            data-testid="loading"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`InspectionHistory renders empty state when there are no records 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bgqQcB gNCgfU"
+  >
+    <h2
+      class="sc-gTRrQi dvtghf"
+    >
+      Histórico de solicitações cadastradas
+    </h2>
+    <div
+      class="sc-kPTPQs cFSfPo"
+    >
+      <div
+        class="sc-ispOId hlbZba"
+      >
+        No records
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`InspectionHistory renders title 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bgqQcB gNCgfU"
+  >
+    <h2
+      class="sc-gTRrQi dvtghf"
+    >
+      Histórico de solicitações cadastradas
+    </h2>
+    <div
+      class="sc-kPTPQs cFSfPo"
+    >
+      <div
+        class="sc-ispOId hlbZba"
+      >
+        No records
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField component render input correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gTRrQi gWFUFE"
+  >
+    <label
+      for="username"
+    >
+      Username
+    </label>
+    <input
+      class="sc-bgqQcB eEhfAl"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;

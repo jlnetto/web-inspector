@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Banner component renders with error type and message 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bgqQcB bVhXrd"
+    type="error"
+  >
+    <div
+      class="sc-gTRrQi jbNXEy"
+    >
+      <div />
+    </div>
+    <p
+      class="sc-ewnqHT lmvpbT"
+    >
+      An error occurred
+    </p>
+    <div
+      class="sc-fFGjHI emCJSz"
+    >
+      <div
+        data-testid="close"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Banner component renders with success type and message 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bgqQcB dAUjVg"
+    type="success"
+  >
+    <div
+      class="sc-gTRrQi jbNXEy"
+    >
+      <div />
+    </div>
+    <p
+      class="sc-ewnqHT lmvpbT"
+    >
+      Success message
+    </p>
+    <div
+      class="sc-fFGjHI emCJSz"
+    >
+      <div
+        data-testid="close"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
